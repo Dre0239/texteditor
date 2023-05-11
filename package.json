@@ -26,6 +26,6 @@
     "nodemon": "^2.0.4",
     "webpack": "^5.82.1",
     "webpack-dev-server": "^4.15.0",
-    "webpack-pwa-manifest": "^4.3.0"
+    "webpack-pwa-manifest": "^4.0.0"
   }
 }
